@@ -29,7 +29,7 @@ This project guides participants through building an image recognition model in 
 ## How to Run
 
 1. **Open in Colab:**  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/Image_Recognition_5Days_Bootcamp.ipynb)
+   [![Open In Colab](https://colab.research.google.com/github/sujal290/models/blob/main/image_recognition_5days_bootcamp.ipynb)
 
 2. **Clone and run locally:**  
    ```bash
